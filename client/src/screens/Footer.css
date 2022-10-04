@@ -1,0 +1,44 @@
+.footer li {
+    list-style-type: none;
+  }
+  .footer {
+    background-color: black;
+    width: 100%;
+    
+  }
+  .footer li a {
+    color: white;
+    padding: 0%;
+    font-size: 16px;
+    font-weight: 500;
+    padding-top: 5px;
+  }
+  .footer h5 {
+    padding-top: 5px;
+  }
+  .footer li a:hover {
+    color: #fff !important;
+  }
+  .youtube {
+    color: #c4302b !important;
+  }
+  
+  .facebook {
+    color: #3b5998 !important;
+  }
+  
+  .twitter{
+    color: #1da1f2 !important;
+  }
+  
+  .instagram {
+    color: #833ab4 !important;
+  }
+  .linkedIn {
+    color: #0e76a8 !important;
+  }
+  .copyright{
+    margin-top: 10px;
+    color:#fff;
+  }
+  
